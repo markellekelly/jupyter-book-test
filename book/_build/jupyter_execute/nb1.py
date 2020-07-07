@@ -11,3 +11,5 @@ sns.violinplot(x='species',y='sepal_length',data=iris)
 
 sns.jointplot(x='sepal_length',y='sepal_width',data=iris)
 
+Really good stuff. Don't you love flowers?
+
