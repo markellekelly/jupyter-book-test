@@ -2,4 +2,4 @@
 
 ### This is a test Jupyter book.
 
-I'm testing if changes I make show up?
+I can make changes and they will show up online.
